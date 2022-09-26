@@ -1,0 +1,9 @@
+{
+  "name": "multiton_design_pattern_typescript_example",
+  "version": "0.0.0",
+  "description": "Multiton_Design_Pattern_Typescript_Example",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

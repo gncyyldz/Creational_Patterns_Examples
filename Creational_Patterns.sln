@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Design_Pattern_As
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Singleton_Design_Pattern_Typescript_Example", "Singleton_Design_Pattern_Typescript_Example\Singleton_Design_Pattern_Typescript_Example.njsproj", "{66580E49-2BAA-4B7B-B142-73570DB7A5B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton_Design_Pattern_Example", "Multiton_Design_Pattern_Example\Multiton_Design_Pattern_Example.csproj", "{68121318-59A9-405F-BDAA-08A3F57C570C}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Multiton_Design_Pattern_Typescript_Example", "Multiton_Design_Pattern_Typescript_Example\Multiton_Design_Pattern_Typescript_Example.njsproj", "{07107131-3CD1-4503-8920-95A9DCE289F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68121318-59A9-405F-BDAA-08A3F57C570C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68121318-59A9-405F-BDAA-08A3F57C570C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68121318-59A9-405F-BDAA-08A3F57C570C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68121318-59A9-405F-BDAA-08A3F57C570C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07107131-3CD1-4503-8920-95A9DCE289F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07107131-3CD1-4503-8920-95A9DCE289F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07107131-3CD1-4503-8920-95A9DCE289F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07107131-3CD1-4503-8920-95A9DCE289F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
