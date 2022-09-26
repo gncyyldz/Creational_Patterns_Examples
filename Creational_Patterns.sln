@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton_Design_Pattern_Pratic", "Singleton_Design_Pattern_Pratic\Singleton_Design_Pattern_Pratic.csproj", "{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton_Design_Pattern_CSharp_AspNetCore_Example", "Singleton_Design_Pattern_CSharp_AspNetCore_Example\Singleton_Design_Pattern_CSharp_AspNetCore_Example.csproj", "{C7B5CDC1-2ECF-48FE-A00F-07DE9D2531B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Design_Pattern_Asynchronous_Example", "Singleton_Design_Pattern_Asynchronous_Example\Singleton_Design_Pattern_Asynchronous_Example.csproj", "{A0F22ABB-AFC2-46AA-9BF7-5CF364E6C349}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Singleton_Design_Pattern_Typescript_Example", "Singleton_Design_Pattern_Typescript_Example\Singleton_Design_Pattern_Typescript_Example.njsproj", "{66580E49-2BAA-4B7B-B142-73570DB7A5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B5CDC1-2ECF-48FE-A00F-07DE9D2531B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B5CDC1-2ECF-48FE-A00F-07DE9D2531B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B5CDC1-2ECF-48FE-A00F-07DE9D2531B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B5CDC1-2ECF-48FE-A00F-07DE9D2531B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F22ABB-AFC2-46AA-9BF7-5CF364E6C349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F22ABB-AFC2-46AA-9BF7-5CF364E6C349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F22ABB-AFC2-46AA-9BF7-5CF364E6C349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F22ABB-AFC2-46AA-9BF7-5CF364E6C349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66580E49-2BAA-4B7B-B142-73570DB7A5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34005412-E304-4C0E-9AA9-1823AE2F8EE8}
+	EndGlobalSection
+EndGlobal
