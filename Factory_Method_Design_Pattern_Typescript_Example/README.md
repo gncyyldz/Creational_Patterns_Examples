@@ -1,0 +1,3 @@
+# Factory_Method_Design_Pattern_Typescript_Example
+
+
