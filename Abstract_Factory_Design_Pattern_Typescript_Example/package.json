@@ -1,0 +1,9 @@
+{
+  "name": "abstract_factory_design_pattern_typescript_example",
+  "version": "0.0.0",
+  "description": "Abstract_Factory_Design_Pattern_Typescript_Example",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
