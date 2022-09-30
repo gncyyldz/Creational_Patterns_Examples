@@ -1,0 +1,3 @@
+# Object_Pool_Design_Pattern_Typescript_Example
+
+
