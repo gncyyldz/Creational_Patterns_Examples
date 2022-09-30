@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton_Design_Pattern_Pratic", "Singleton_Design_Pattern_Pratic\Singleton_Design_Pattern_Pratic.csproj", "{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton_Design_Pattern_Practice", "Singleton_Design_Pattern_Pratic\Singleton_Design_Pattern_Practice.csproj", "{F2CEF277-5B4E-426F-A8FC-55F9BF6777A9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton_Design_Pattern_CSharp_AspNetCore_Example", "Singleton_Design_Pattern_CSharp_AspNetCore_Example\Singleton_Design_Pattern_CSharp_AspNetCore_Example.csproj", "{C7B5CDC1-2ECF-48FE-A00F-07DE9D2531B3}"
 EndProject
@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiton_Design_Pattern_Exa
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Multiton_Design_Pattern_Typescript_Example", "Multiton_Design_Pattern_Typescript_Example\Multiton_Design_Pattern_Typescript_Example.njsproj", "{07107131-3CD1-4503-8920-95A9DCE289F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Method_Design_Pattern_Pratic_1", "Factory_Method_Design_Pattern_Pratic\Factory_Method_Design_Pattern_Pratic_1.csproj", "{05630943-D68F-4961-9FAC-E1F0D3C324BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Method_Design_Pattern_Practice_1", "Factory_Method_Design_Pattern_Pratic\Factory_Method_Design_Pattern_Practice_1.csproj", "{05630943-D68F-4961-9FAC-E1F0D3C324BB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Method_Design_Pattern_Pratic_2", "Factory_Method_Design_Pattern_Pratic_2\Factory_Method_Design_Pattern_Pratic_2.csproj", "{97EF251B-F139-4F4D-B166-22D985246C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Method_Design_Pattern_Practice_2", "Factory_Method_Design_Pattern_Pratic_2\Factory_Method_Design_Pattern_Practice_2.csproj", "{97EF251B-F139-4F4D-B166-22D985246C75}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Method_Design_Pattern_CSharp_Example_1", "Factory_Method_Design_Pattern_CSharp_Example\Factory_Method_Design_Pattern_CSharp_Example_1.csproj", "{B22466FD-4676-494F-B7D1-0A5C101D3EC7}"
 EndProject
@@ -27,9 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Method_Design_Patte
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Factory_Method_Design_Pattern_Typescript_Example", "Factory_Method_Design_Pattern_Typescript_Example\Factory_Method_Design_Pattern_Typescript_Example.njsproj", "{8C9E517A-634F-4825-BBCB-3B293D85ECBB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory_Design_Pattern_Pratic_1", "Abstract_Factory_Design_Pattern_Pratic\Abstract_Factory_Design_Pattern_Pratic_1.csproj", "{199E8074-7CFA-479E-A332-8EDB040923D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory_Design_Pattern_Practice_1", "Abstract_Factory_Design_Pattern_Pratic\Abstract_Factory_Design_Pattern_Practice_1.csproj", "{199E8074-7CFA-479E-A332-8EDB040923D3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory_Design_Pattern_Pratic_2", "Abstract_Factory_Design_Pattern_Pratic_2\Abstract_Factory_Design_Pattern_Pratic_2.csproj", "{46A145B9-7F69-4EA4-807E-B87E254CB918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory_Design_Pattern_Practice_2", "Abstract_Factory_Design_Pattern_Pratic_2\Abstract_Factory_Design_Pattern_Practice_2.csproj", "{46A145B9-7F69-4EA4-807E-B87E254CB918}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory_Design_Pattern_CSharp_Example_1", "Abstract_Factory_Design_Pattern_CSharp_Example\Abstract_Factory_Design_Pattern_CSharp_Example_1.csproj", "{CEC6BFFD-1476-421E-9A9C-441F9DFA9C47}"
 EndProject
@@ -37,11 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory_Design_Pat
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Abstract_Factory_Design_Pattern_Typescript_Example", "Abstract_Factory_Design_Pattern_Typescript_Example\Abstract_Factory_Design_Pattern_Typescript_Example.njsproj", "{D7B0436F-26A9-4367-B42C-AAAF7C1F72B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_Design_Pattern_Pratic_1", "Prototype_Design_Pattern_Pratic_1\Prototype_Design_Pattern_Pratic_1.csproj", "{B4E2357F-1B0C-4197-B649-1A7F7CBA045E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype_Design_Pattern_Practice_1", "Prototype_Design_Pattern_Pratic_1\Prototype_Design_Pattern_Practice_1.csproj", "{B4E2357F-1B0C-4197-B649-1A7F7CBA045E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_Design_Pattern_Pratic_2", "Prototype_Design_Pattern_Pratic_2\Prototype_Design_Pattern_Pratic_2.csproj", "{650E7D18-11AD-44C6-9ACF-214A9F442046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype_Design_Pattern_Practice_2", "Prototype_Design_Pattern_Pratic_2\Prototype_Design_Pattern_Practice_2.csproj", "{650E7D18-11AD-44C6-9ACF-214A9F442046}"
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Prototype_Design_Pattern_Typescript_Example", "Prototype_Design_Pattern_Typescript_Example\Prototype_Design_Pattern_Typescript_Example.njsproj", "{D15B4FFA-4156-4002-9853-0D4331D687E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Pool_Design_Pattern_Practice", "Object_Pool_Design_Pattern_Pratic\Object_Pool_Design_Pattern_Practice.csproj", "{1BD6502C-D900-49D0-A91E-AEC54661D196}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{D15B4FFA-4156-4002-9853-0D4331D687E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15B4FFA-4156-4002-9853-0D4331D687E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15B4FFA-4156-4002-9853-0D4331D687E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD6502C-D900-49D0-A91E-AEC54661D196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD6502C-D900-49D0-A91E-AEC54661D196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD6502C-D900-49D0-A91E-AEC54661D196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD6502C-D900-49D0-A91E-AEC54661D196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
