@@ -43,17 +43,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype_Design_Pattern_Pr
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Prototype_Design_Pattern_Typescript_Example", "Prototype_Design_Pattern_Typescript_Example\Prototype_Design_Pattern_Typescript_Example.njsproj", "{D15B4FFA-4156-4002-9853-0D4331D687E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Pool_Design_Pattern_Practice_1", "Object_Pool_Design_Pattern_Practice\Object_Pool_Design_Pattern_Practice_1.csproj", "{A79EBA38-D922-4120-A6E9-93A60B50EB07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object_Pool_Design_Pattern_Practice_1", "Object_Pool_Design_Pattern_Practice\Object_Pool_Design_Pattern_Practice_1.csproj", "{A79EBA38-D922-4120-A6E9-93A60B50EB07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Pool_Design_Pattern_Practice_2", "Object_Pool_Design_Pattern_Practice_2\Object_Pool_Design_Pattern_Practice_2.csproj", "{C4C89DAB-B0FC-4963-B078-6D18564B76E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object_Pool_Design_Pattern_Practice_2", "Object_Pool_Design_Pattern_Practice_2\Object_Pool_Design_Pattern_Practice_2.csproj", "{C4C89DAB-B0FC-4963-B078-6D18564B76E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Pool_Design_Pattern_Practice_3", "Object_Pool_Design_Pattern_Practice_3\Object_Pool_Design_Pattern_Practice_3.csproj", "{A46EEB76-47D3-40C7-948C-60557D613549}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object_Pool_Design_Pattern_Practice_3", "Object_Pool_Design_Pattern_Practice_3\Object_Pool_Design_Pattern_Practice_3.csproj", "{A46EEB76-47D3-40C7-948C-60557D613549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Pool_Design_Pattern_Practice_4", "Object_Pool_Design_Pattern_Practice_4\Object_Pool_Design_Pattern_Practice_4.csproj", "{8A936821-AE2D-4503-A445-776F4F300185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object_Pool_Design_Pattern_Practice_4", "Object_Pool_Design_Pattern_Practice_4\Object_Pool_Design_Pattern_Practice_4.csproj", "{8A936821-AE2D-4503-A445-776F4F300185}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Pool_Design_Pattern_CSharp_AspNetCore_Example", "Object_Pool_Design_Pattern_CSharp_AspNetCore_Example\Object_Pool_Design_Pattern_CSharp_AspNetCore_Example.csproj", "{0DCF66E1-3C97-4A96-8DC4-83C2ADD7DF4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object_Pool_Design_Pattern_CSharp_AspNetCore_Example", "Object_Pool_Design_Pattern_CSharp_AspNetCore_Example\Object_Pool_Design_Pattern_CSharp_AspNetCore_Example.csproj", "{0DCF66E1-3C97-4A96-8DC4-83C2ADD7DF4B}"
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Object_Pool_Design_Pattern_Typescript_Example", "Object_Pool_Design_Pattern_Typescript_Example\Object_Pool_Design_Pattern_Typescript_Example.njsproj", "{48758EAC-64BD-4D65-8E32-7CB8BE24407E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Design_Pattern_Practice_1", "Builder_Design_Pattern_Practice\Builder_Design_Pattern_Practice_1.csproj", "{74AC6A9E-903C-44BC-B875-E6CA32C3658A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Design_Pattern_Practice_2", "Builder_Design_Pattern_Practice_2\Builder_Design_Pattern_Practice_2.csproj", "{842B8AA4-0879-449B-B756-2693B5E4ACFA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Builder_Design_Pattern_Typescript_Example", "Builder_Design_Pattern_Typescript_Example\Builder_Design_Pattern_Typescript_Example.njsproj", "{3EA749EA-E260-4402-8DAD-2C38F66C600F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +171,18 @@ Global
 		{48758EAC-64BD-4D65-8E32-7CB8BE24407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48758EAC-64BD-4D65-8E32-7CB8BE24407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48758EAC-64BD-4D65-8E32-7CB8BE24407E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AC6A9E-903C-44BC-B875-E6CA32C3658A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AC6A9E-903C-44BC-B875-E6CA32C3658A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AC6A9E-903C-44BC-B875-E6CA32C3658A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AC6A9E-903C-44BC-B875-E6CA32C3658A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842B8AA4-0879-449B-B756-2693B5E4ACFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842B8AA4-0879-449B-B756-2693B5E4ACFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842B8AA4-0879-449B-B756-2693B5E4ACFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842B8AA4-0879-449B-B756-2693B5E4ACFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA749EA-E260-4402-8DAD-2C38F66C600F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA749EA-E260-4402-8DAD-2C38F66C600F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA749EA-E260-4402-8DAD-2C38F66C600F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA749EA-E260-4402-8DAD-2C38F66C600F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
